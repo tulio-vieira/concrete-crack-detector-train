@@ -7,3 +7,4 @@ Os arquivos incluídos são:
 * [train.ipynb](https://github.com/tulio-vieira/concrete-crack-detector-train/blob/main/train.ipynb): Este notebook faz o treinamento do modelo, e o salva no presente diretório.
 * [detect.ipynb](https://github.com/tulio-vieira/concrete-crack-detector-train/blob/main/detect.ipynb): Carrega o modelo treinado e o utiliza para fazer predição em imagens de qualquer resolução, por meio de uma janela deslizante.
 * [convert.ipynb](https://github.com/tulio-vieira/concrete-crack-detector-train/blob/main/convert.ipynb): Realiza a conversão do modelo para o formato [tensorflowjs](https://www.tensorflow.org/js), que o permite ser usado no ambiente javascript para aplicação no browser.
+* [trabalho-final-2-tulio-vieira.pdf](https://github.com/tulio-vieira/concrete-crack-detector-train/blob/main/trabalho-final-2-tulio-vieira.pdf): Trabalho final de conclusão de curso em Engenharia Civil, na UnB, para o qual esta rede foi desenvolvida.
